@@ -1,0 +1,1 @@
+import{d as c}from"./index--d2myiyV.js";import{e as i}from"./react-CxrzeUYu.js";function u(s,d="id"){const r=i(),e=c(),o=s.find(n=>n.id===r[d]);if(o)return o.companyId===null||e.includes(o.companyId)?o:void 0}export{u};

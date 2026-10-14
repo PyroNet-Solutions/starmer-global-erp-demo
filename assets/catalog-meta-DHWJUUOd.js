@@ -1,0 +1,1 @@
+const o="https://www.starmerglobal.com/js/catalog-data.js",a="2026-10-13",e=[{code:"BG",label:"Bubble Gum Production"},{code:"CT",label:"Chew & Toffee Production"},{code:"HC",label:"Hard Candy Production"},{code:"LO",label:"Lollipop Production"},{code:"PH",label:"Pharma (Lozenges)"}];export{e as C,a,o as b};
